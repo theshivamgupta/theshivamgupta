@@ -1,4 +1,4 @@
-### Hola, I'm Akshay Gupta 👋
+### Hola, I'm Shivam Gupta 👋
 
 - 🔭 I’m currently working on React/ApolloServer/GraphQL/PostgreSQL stack.
 - 🌱 I’m currently learning Advance Data Structures and Algorithms.
